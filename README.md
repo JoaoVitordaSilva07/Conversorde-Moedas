@@ -7,5 +7,7 @@
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascrip-logo"/>
 
-<img width="1350" height="642" alt="image" src="https://github.com/user-attachments/assets/ab740977-dfbb-46d0-808b-7a435511bf98" />
+<img src="https://github.com/user-attachments/assets/ab740977-dfbb-46d0-808b-7a435511bf98" alt="image-coversor-de-moedas"
+  width="1350"
+  height="642"/>
 
